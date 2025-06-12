@@ -1,0 +1,59 @@
+body{
+   background-color: rgb(166, 89, 238); 
+}
+.img {
+    margin: 10px, auto;
+    padding: 10px;
+}
+h2{
+    color: rgb(90, 88, 90);
+    margin: 10px, auto;
+    padding-top: 10px; 
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    padding: 0px 10px;
+    margin: 10px auto;
+}
+p {
+    font-size: medium;
+    padding: 0px 10px;
+    margin: 10px auto;
+}
+.profile article{
+    display: inline-block;
+}
+.section{
+    background-color: rgb(227, 176, 247);
+    margin: auto 10px;
+}
+.introduction{
+    background-color: rgb(227, 176, 247);;
+}
+.item p, .emailId article, .footer article{
+    display: inline-block;
+}
+.skillName, .stackName, .email, .jobDesc{
+    font-weight: bold;
+}
+.techStack p{
+    display: inline-block; 
+}
+a{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(172, 169, 175);
+}
+a:active{
+    color: grey;
+    text-decoration: underline;
+}
+.footer article{
+    color: black;
+    margin: auto 50%;
+    padding: auto 50%;
+    display: inline-block
+}
